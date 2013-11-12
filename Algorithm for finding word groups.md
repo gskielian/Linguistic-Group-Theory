@@ -1,6 +1,6 @@
 Intro
-=====
 
+=====
 
 Words are a strange entity, I like to think of them as operators.
 
@@ -53,8 +53,15 @@ The scaling factor exists to account for
 
 Which brings up the point (which I should have spoken of earlier), that these words are being treated in this model as Random Functions (see Notes).
 
+Finding words with proportional mappings is easily done with: 
+[the ngrams app in google books](https://books.google.com/ngrams/graph?content=hot%2C+cold&year_start=1800&year_end=2000&corpus=0&smoothing=3&share=&direct_url=t1%3B%2Chot%3B%2Cc0%3B.t1%3B%2Ccold%3B%2Cc0)
+
+After finding a few of these words which correlate, we can find the other words for the group by associative analysis: tracing the route in which they close in by studying many conversations (available to the public thanks to facebook/twitter/irc).
+
+After mapping out the word terrain (groups and distances in terms of probabilities) we can then make macro-predictions of where the conversation will go, treating the system very much like a quantum-mechanical particle "randomly" choosing it's eigenstate.
 
 
+## Larger Groups
 
 
 
@@ -64,5 +71,3 @@ Best to play the odds, and rely on the Law-of-large numbers to reduce the fracti
 
 
 
-
-https://books.google.com/ngrams/graph?content=hot%2C+cold&year_start=1800&year_end=2000&corpus=0&smoothing=3&share=&direct_url=t1%3B%2Chot%3B%2Cc0%3B.t1%3B%2Ccold%3B%2Cc0
