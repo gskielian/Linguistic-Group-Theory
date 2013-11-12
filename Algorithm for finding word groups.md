@@ -51,8 +51,16 @@ The scaling factor exists to account for
 1) sometimes an operation will map back to other things which map back to it (% of time it leaves the group)
 2) sometimes an operation will map back to itself.
 
-Which brings up the point (which I should have spoken of earlier)
+Which brings up the point (which I should have spoken of earlier), that these words are being treated in this model as Random Functions (see Notes).
 
+
+
+
+
+
+Notes: I'm not saying that there is intrinsic randomness -- each situation may indeed be deterministic -- *but* contextual sensitivity (words have this) *and the fact that* they have a limited number of probably end mappings, means that the group of possibilities is often shuffled well enough to assume so. 
+From my experience, modeling the outcome as deterministic sets one up to wind-up going "all in" on a specific outcome, where there is high contextual sensitivity creating great complications if you fail, and demanding that a large amount of energy be withheld in the case of a disastrous mis-calculation/mis-step (much like a **bad-beat** in hold-em poker).
+Best to play the odds, and rely on the Law-of-large numbers to reduce the fractional variance (making the outcome immeasureably more reliable).
 
 
 
