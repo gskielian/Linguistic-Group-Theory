@@ -19,32 +19,28 @@ The set of words {"you","me"} is basically a group, occuring in an alternating f
 ```lyrics
 Happy Together by the Turtles 
 
-I can't see me lovin' nobody but you 
+I can't see me lovin' nobody but **you** 
 For all my life 
 When you're with me, baby the skies'll be blue 
 For all my life 
 
-Me and you and you and me 
+Me and you and you and **me** 
 No matter how they toss the dice, it has to be 
 The only one for me is you, and you for me 
 So happy together 
 
-I can't see me lovin' nobody but you 
+I can't see me lovin' nobody but **you** 
 For all my life 
 When you're with me, baby the skies'll be blue 
 For all my life 
 
-Me and you and you and me 
+Me and you and you and **me** 
 No matter how they toss the dice, it has to be 
 The only one for me is you, and you for me 
 So happy together
-````
-
-
-
 ```
 
-Grlou
+
 
 
 https://books.google.com/ngrams/graph?content=hot%2C+cold&year_start=1800&year_end=2000&corpus=0&smoothing=3&share=&direct_url=t1%3B%2Chot%3B%2Cc0%3B.t1%3B%2Ccold%3B%2Cc0
