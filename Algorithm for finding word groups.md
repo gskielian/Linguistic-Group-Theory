@@ -27,7 +27,7 @@ For all my life
 Me and you and you and **me** 
 No matter how they toss the dice, it has to be 
 The only one for me is you, and you for me 
-So happy together 
+So happy **together** 
 
 I can't see me lovin' nobody but **you** 
 For all my life 
@@ -37,8 +37,22 @@ For all my life
 Me and you and you and **me** 
 No matter how they toss the dice, it has to be 
 The only one for me is you, and you for me 
-So happy together
+So happy **together**
 ```
+
+{you,me} is basically a group, but with enough {you,me} operations, the "together" becomes more probable Group closure in the **local** sense). 
+Now bringing us to the question of how can we find a group in a systematic manner?
+
+## The algorithm
+
+We should expect (for smaller groups), a simple proportion of frequency. In so far as the group has a high %-of-closure, we would expect their usage to track eachother by a scaling factor.
+
+The scaling factor exists to account for 
+1) sometimes an operation will map back to other things which map back to it (% of time it leaves the group)
+2) sometimes an operation will map back to itself.
+
+Which brings up the point (which I should have spoken of earlier)
+
 
 
 
